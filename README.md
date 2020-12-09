@@ -4,8 +4,14 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby prova amb el mínim
 </h1>
+
+## Objectiu
+
+Provar com es veu MON AMAGAT
+
+
 
 ## 🚀 Quick start
 
